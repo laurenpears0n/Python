@@ -1,5 +1,5 @@
 # Python
-University of Manchester Introduction to Programming for Physicists (Python) Module 
+University of Manchester ***Introduction to Programming for Physicists (Python)*** Module 
 
 ## Assignment Grades:
 - Assignment 1: 81%
